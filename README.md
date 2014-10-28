@@ -10,3 +10,9 @@ Checkbox stuff:
 - [x] test2
 
 ~~Strike through stuff~~
+
+Fenced code block
+
+```
+codey stuff, weird science
+```
