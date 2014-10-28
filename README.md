@@ -8,3 +8,5 @@ This is a test repository
 Checkbox stuff:
 - [ ] test
 - [x] test2
+
+~~Strike through stuff~~
