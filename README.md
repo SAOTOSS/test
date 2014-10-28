@@ -17,4 +17,5 @@ Fenced code block
 codey stuff, weird science
 ```
 
-git-notes tesetasdfasfd
+-git-notes tesetasdfasfd
+-git notes add tesetasdfasfd
